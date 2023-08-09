@@ -1,7 +1,3 @@
-Absolutely! Here's a quick README for the script:
-
----
-
 ## LinkedIn Auto-Unfollow Script
 
 ### Description
@@ -33,7 +29,3 @@ This script is designed to help you automatically unfollow profiles or companies
 - **Rate Limiting:** LinkedIn might have rate limits or bot detection mechanisms. Continuous unfollow actions could trigger these. If you notice any unusual behavior, stop the script immediately.
 
 - **Updates:** Websites often update their frontend structure. If LinkedIn changes its button names or layout, the script might not work. Always ensure that the script is up-to-date with LinkedIn's current structure.
-
----
-
-Feel free to customize this README according to your needs.
